@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/pLBkZ2c/2708517-3.jpg" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/pLBkZ2c/2708517-3.jpg" align="center" style="width: 60%" />
 </div>  
   
 ### <div align="center">100 Days of Code: The Complete Python Pro Bootcamp 
