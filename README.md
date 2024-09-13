@@ -9,7 +9,9 @@
 <br />
 
 ### 🔰 Beginner  
+
 <br />
+
 [Day 1](http://example/com): Working with Variables in Python to Manage Data 
 
 Day 2: Understanding Data Types and How to Manipulate Strings
