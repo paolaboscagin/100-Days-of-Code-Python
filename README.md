@@ -14,7 +14,7 @@
 
 [Day 1](https://github.com/paolaboscagin/100-Days-of-Code-Python/tree/main/Day%201): Working with Variables in Python to Manage Data 
 
-Day 2: Understanding Data Types and How to Manipulate Strings
+[Day 2](https://github.com/paolaboscagin/100-Days-of-Code-Python/tree/main/Day%202): Understanding Data Types and How to Manipulate Strings
 
 Day 3: Control Flow and Logical Operators
 
