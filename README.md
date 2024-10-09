@@ -16,7 +16,7 @@
 
 [Day 2](https://github.com/paolaboscagin/100-Days-of-Code-Python/tree/main/Day%202): Understanding Data Types and How to Manipulate Strings
 
-Day 3: Control Flow and Logical Operators
+[Day 3](https://github.com/paolaboscagin/100-Days-of-Code-Python/blob/main/Day%203/): Control Flow and Logical Operators
 
 Day 4: Randomisation and Python Lists
 
