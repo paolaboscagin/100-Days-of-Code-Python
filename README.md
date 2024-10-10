@@ -18,7 +18,7 @@
 
 [Day 3](https://github.com/paolaboscagin/100-Days-of-Code-Python/blob/main/Day%203/): Control Flow and Logical Operators
 
-Day 4: Randomisation and Python Lists
+[Day 4](https://github.com/paolaboscagin/100-Days-of-Code-Python/blob/main/Day%204/): Randomisation and Python Lists
 
 Day 5: Python Loops
 
