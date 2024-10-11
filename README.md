@@ -20,7 +20,7 @@
 
 [Day 4](https://github.com/paolaboscagin/100-Days-of-Code-Python/blob/main/Day%204/): Randomisation and Python Lists
 
-Day 5: Python Loops
+[Day 5](https://github.com/paolaboscagin/100-Days-of-Code-Python/blob/main/Day%205/): Python Loops
 
 Day 6: Python Functions & Karel
 
