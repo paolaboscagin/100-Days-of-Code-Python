@@ -4,4 +4,4 @@
 <li>For loops and the range() function</li></ul>
 <h2>Password Generator</h2>
 <img src="https://user-images.githubusercontent.com/98851253/154311198-83cc6a60-6a57-4e21-bb01-6b54593def0e.gif" alt="Gif Password Generator">
-<a href="https://codesandbox.io/p/sandbox/password-generator-crzzfw">Check it on Code Sandbox!</a>
+<a href="https://codesandbox.io/p/sandbox/password-generator-crzzfw">Check it on CodeSandbox!</a>
